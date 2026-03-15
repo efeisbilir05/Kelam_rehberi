@@ -1,0 +1,66 @@
+{
+  "kitap_adi": "el-Bidâye fî Usûli'd-Dîn (Mâtürîdiyye Akaidi)",
+  "muellif": "Nûreddîn es-Sâbûnî",
+  "tercüme_ve_notlar": "Prof. Dr. Bekir Topaloğlu",
+  "bolumler": [
+    {
+      "bolum_no": 1,
+      "bolum_basligi": "Giriş: Bilgi Edinme Yolları (Esbâb-ı İlim)",
+      "detaylar": {
+        "Hakikat": "Eşyanın hakikatleri sabittir; yani varlıklar gerçek bir mahiyete sahiptirler. Bu görüş, varlıkların bir gerçekliği olmadığını veya bu gerçekliğin bilinemeyeceğini savunan Sofistlere (Sûfestâiyye) bir reddiye niteliğindedir.",
+        "Kaynaklar": [
+          { "ad": "Sağlam Duyular", "aciklama": "Dış dünyadan doğrudan bilgi almamızı sağlayan beş duyu organıdır. Bu duyuların sağlam olması gerekmektedir.", "alt_dallar": ["İşitme: Sesleri duyar.", "Görme: Renkleri ve şekilleri algılar.", "Koklama: Kokuları ayırt eder.", "Tatma: Lezzetleri bilir.", "Dokunma: Sıcaklık, soğukluk, yumuşaklık gibi nitelikleri kavrar."] },
+          { "ad": "Doğru Haber", "aciklama": "Kişinin kendi tecrübesiyle ulaşamadığı, başkaları aracılığıyla gelen bilgilerdir. İkiye ayrılırlar.", "alt_dallar": ["Mütevâtir Haber: Yalan üzerinde birleşmeleri aklen imkânsız olan kalabalık bir topluluğun verdiği haberdir. Uzak ülkelerin varlığı veya geçmiş hükümdarlar hakkındaki bilgiler gibi 'zaruri bilgi' ifade eder.", "Peygamber Haberi: Mucize ile doğruluğu kanıtlanmış bir peygamberin verdiği haberdir. Bu yolla melekler, ahiret halleri ve ibadetlerin detayları gibi akıl ve duyularla ulaşılamayacak gaybî bilgiler öğrenilir."] },
+          { "ad": "Akıl", "aciklama": "Akıl, hem doğrudan bilgi üreten hem de diğer kaynaklardan gelen bilgileri değerlendiren en önemli unsurdur.", "alt_dallar": ["Zarurî Bilgi: Aklın herhangi bir kanıt aramaya gerek duymadan, düşünmeksizin kabul ettiği bilgilerdir. (Örneğin: 'Bütün, parçasından büyüktür' veya 'Aynı anda bir şey hem var hem yok olamaz' gibi.)", "İstidlâlî Bilgi: Akıl yürütme, gözlem ve delillendirme yoluyla ulaşılan bilgilerdir. Allah'ın varlığı ve birliği gibi sonuçlara akıl yoluyla, delilleri inceleyerek ulaşılır."] }
+        ],
+        "Reddedilenler": ["İlham: İlham özneldir (kişiye özeldir). Bir kişi kalbine doğan bir bilginin doğruluğunu bir başkasına ispat edemez.", "Rüya: Rüyalar karmaşıktır, şeytani müdahalelere açıktır ve sübjektiftir. Akli ve nakli (dini) esasların yerine geçemezler.", "Keşif: Tasavvuf ehlinin kullandığı 'kalp gözünün açılması' gibi yöntemler, kelâm ilmi açısından genel geçer bir bilgi yolu sayılmaz. Hakikatin tespiti ancak herkes için geçerli olan akıl ve duyu gibi objektif araçlarla mümkündür."]
+      }
+    },
+    {
+      "bolum_no": 2,
+      "bolum_basligi": "İlahiyat Bahisleri (İlâhiyyât)",
+      "detaylar": {
+        "Hudus": "Âlem araz ve cevherlerden oluşur, sonradan yaratılmıştır (hâdistir).",
+        "İspat": "Kâinattaki düzenin bozulmadan devam etmesi, onu idare eden iradenin tek olduğunu kanıtlar. Eğer birden fazla irade olsaydı, aralarındaki görüş ayrılığı kâinatın yok olmasına veya kaosa sürüklenmesine neden olurdu.(Temânu' delili). Kâinattaki hikmetli işleyiş ve her varlığın belli bir amaca (gaye) hizmet etmesi, sonsuz ilim ve kudret sahibi bir tek yaratıcının varlığını ve birliğini ispat eder(Nizam delili).",
+        "Sıfatlar": {
+          "Tanım": "Sıfat, 'mevsuf (sıfatlanan) ile kaim olan ve onun için bir hüküm veya hal ifade eden mana' olarak görülür. Allah Teâlâ söz konusu olduğunda sıfatlar; O’nun zatı üzerine zait (ek) olan, ezelî ve ebedî manalardır.",
+          "Liste": ["Hayat: Hayat sıfatı, Allah Teâlâ’nın diri olması demektir. Kelâmî açıdan hayat; ilim, kudret, irade gibi sıfatların bir varlıkta bulunabilmesi için gerekli olan 'ön şart' niteliğindeki sıfat olarak tanımlanır. Allah'ın hayatı ezelî ve ebedîdir; mahlukatta olduğu gibi bir ruhun bedene girmesiyle veya biyolojik süreçlerle (yeme, içme, uyuma) gerçekleşen bir durum değildir.", "İlim: İlim, 'bilinmesi mümkün olan her şeyi (mâlûmâtı) olduğu hali üzere ihata eden (kuşatan), zât üzerine zâit ve ezelî bir mana' olarak tanımlanır. Allah'ın ilmi, mahlukatın ilmi gibi sonradan kazanılmış (kesbî) veya bir düşünme süreciyle (istidlal) elde edilmiş değildir; O'nun ilmi zâtıyla kâim ve ezelîdir. ", "Kudret: Kudret; Allah Teâlâ’nın, mümkün olan bir şeyi hikmetine ve iradesine uygun olarak var etmesine veya yok etmesine imkân veren, ezelî ve mutlak bir sıfattır.", "Semi: Allah Teâlâ’nın her şeyi işitmesi demektir. Bu, ezelî ve ebedî bir sıfattır. Allah’ın işitmesi, mahlukatın işitme eyleminden tamamen farklıdır. Vasıtasız ve sınırsız bir işitmedir.:", "Basar: Allah Teâlâ’nın gizli-açık, küçük-büyük her şeyi ezelî olarak görmesi demektir.", "İrade: Allah Teâlâ’nın, mümkün olan bir şeyin var olmasını veya yok olmasını, belirli bir zamanda, belirli bir nitelikte ve belirli bir yönde gerçekleşmesini dilemesi, tercih etmesi ve tahsis etmesi demektir.", "Kelâm: Kelâm sıfatı, Allah'ın dilediği şekilde hitap etmesini sağlayan, beşerî lisanın ve maddi unsurların (ses, harf, nefes) ötesinde, O'nun zâtına has ezelî bir kemal sıfatıdır.", "Tekvîn: Tekvin, kelime anlamı olarak 'yok olanı var etmek, icat etmek ve yaratmak' demektir. Kelâmî bir terim olarak ise; Allah Teâlâ’nın, ezelî ilmine ve iradesine uygun olarak, herhangi bir şeyi yokluktan varlık sahasına çıkarması, onu var etmesidir."],
+          "Özel_Vurgu": "Eşariyye'ye göre yaratma (tahlîk), Kudret sıfatının bir sonucudur ve sonradan meydana gelir. Yani ezelde 'Tekvin' diye müstakil bir sıfat yoktur. Matüridiyye'ye göre ise Tekvin sıfatı, Mâtürîdiyye akaidinde yaratma eylemini sadece bir 'sonuç' değil, Allah'ın zâtına ait 'ezelî bir yetkinlik' olarak kabul eden temel bir esastır. Allah, sadece yarattığı zaman değil, ezelden ebede 'Yaratıcı'dır."
+        },
+        "Ruyetullah": "Allah'ın ahirette görülmesi aklen caiz, naklen vaciptir; keyfiyetsizdir."
+      }
+    },
+    {
+      "bolum_no": 3,
+      "bolum_basligi": "Nübüvvet Bahisleri (Peygamberlik)",
+      "detaylar": {
+        "Lüzum": "Mâtürîdiyye akaidine göre peygamberlik, aklın boşluklarını dolduran, gaybın kapılarını açan ve insana yaratılış gayesini öğreten vazgeçilmez bir müessesedir. Akıl bir ışık ise, peygamberlik o ışığın neye yöneleceğini gösteren bir rehberdir.",
+        "Mucize": "Mucize sözlükte 'âciz bırakan' demektir. Terim olarak ise; peygamberlik iddiasında bulunan kişinin elinde, davasının doğruluğunu kanıtlamak üzere ortaya çıkan ve tabiat kanunlarını aşan (hârikulâde) olaydır. Mucize, Allah’ın o peygamberine 'Kulum doğru söylüyor' şeklindeki fiilî bir onayıdır.",
+        "İsmet": "İsmet, peygamberlerin iradeleri dışında robotlaşmaları değil, Allah'ın onlarda günah işleme isteğini engelleyen bir lütfu ve hayra yönlendirmesidir. Peygamberler günah işleme gücüne sahip olsalar da, sahip oldukları üstün ahlak ve ilahi koruma sayesinde bu gücü hiçbir zaman kötülüğe kullanmazlar.",
+        "Velayet": "Velayet, Allah'a yakınlığın ve manevi kemaletin bir tezahürüdür. Keramet ise bu yakınlığın ilahi bir hediyesi olarak kabul edilir ancak asla peygamberlik makamıyla karıştırılmamalı ve şeriat ölçülerinden bağımsız düşünülmemelidir."
+      }
+    },
+    {
+      "bolum_no": 4,
+      "bolum_basligi": "Kaza, Kader ve İnsan Fiilleri",
+      "detaylar": {
+        "Yaratış": "Hayır ve şer dahil her şeyi yaratan Allah'tır.",
+        "Kesb": "Kul, fiili diler ve kazanır (kesb); Allah ise o fiili yaratır (halk).",
+        "İstitâat": "İstitâat, kulun bir işi yapabilmesi için Allah'ın onda yarattığı kuvvettir. Bu kuvvet, kul iradesini bir yöne sarf ettiği anda (kesb) yaratılır ve böylece kul, o işi kendi gücüyle yapmış gibi sorumlu olur..",
+        "Rızık": "Rızık, Allah Teâlâ’nın canlılara verdiği ve onların faydalandığı her şeydir. Bu tanım hem helal hem de haram olan maddeleri kapsar. Mâtürîdiyye ve Eş'ariyye'ye göre haram da rızıktır. Sâbûnî bu konuda Mu'tezile'ye reddiye verir. Mu'tezile, 'Allah haramı rızık olarak vermez' derken; Matüridiyye, eğer öyle olsaydı ömrü boyunca haram yiyen birinin Allah'ın rızkını yememiş olacağını, bunun da 'Yeryüzünde hiçbir canlı yoktur ki rızkı Allah'a ait olmasın' ayetiyle çelişeceğini savunur. Herkes kendi rızkını yer. Hiç kimse başkasının rızkını yiyemez ve hiç kimse rızkını bitirmeden ölmez. Rızkı veren Allah olsa da, insanın çalışıp çabalaması (kesb) emredilmiştir. Ancak kişi, rızkı kendi çalışmasının mutlak bir sonucu değil, Allah'ın bir ihsanı olarak görmelidir.",
+        "Ecel": "Mâtürîdiyye akaidine göre her insanın bir tek eceli vardır. Bu vakit ne öne alınabilir ne de ertelenebilir. Maktul de ecelinde ölmüştür.Maktulün eceliyle ölmesi, katili suçsuz yapmaz. Katil, Allah'ın yasakladığı bir fiili işlediği ve maktulün hayatına son verme eylemini (kesb) gerçekleştirdiği için cezalandırılır. Ölüm fiili Allah'ın yaratmasıyla (halk) gerçekleşir, ancak cinayet fiili katilin kazanımıdır (kesb)."
+      }
+    },
+    {
+      "bolum_no": 5,
+      "bolum_basligi": "İman, Amel ve Sem'iyyât (Ahiret Haller)",
+      "detaylar": {
+        "İmanın_Tanımı": "İman, kalbin tereddütsüz bir tasdikidir. Bu tasdik sağlandığında kişi mümin sıfatını kazanır; ameller ise bu imanın meyveleri ve koruyucuları hükmündedir.",
+        "Büyük_Günah": "Büyük günah işleyen dinden çıkmaz, 'fasık mümin' olur. Amel imandan bir cüz (parça) değildir. Dolayısıyla, bir mümin büyük bir günah işlediğinde (örneğin zina, hırsızlık, haksız yere adam öldürme gibi) kalbindeki tasdik yok olmadığı sürece dinden çıkmaz.",
+        "Şefaat": "Şefaat; ahirette peygamberlerin ve Allah katında derece sahibi olan salih kulların, müminlerin bağışlanması veya derecelerinin yükseltilmesi için Allah Teâlâ’ya niyazda bulunmalarıdır. Şefaat, Allah'ın iznine bağlıdır ve O'nun rızası dışında kimse şefaat edemez.",
+        "Kabir_Halleri": "İnsan kabre konulduğunda Münker ve Nekir adında iki melek tarafından sorgulanacaktır. Melekler ölüye 'Rabbin kim?', 'Dinin ne?' ve 'Peygamberin kim?' gibi temel inanç esaslarını soracaklardır. Mümin kul, Allah'ın yardımıyla bu sorulara doğru cevap verecek ve kabri kendisi için genişletilecektir. Kâfir ve münafıklar ise cevap veremeyip büyük bir korku ve şaşkınlık yaşayacaklardır. İtaat sahibi müminler için kabir, cennet bahçelerinden bir bahçe (nimet) olacaktır.Kâfirler ve bazı günahkâr müminler için kabir, cehennem çukurlarından bir çukur (azap) olacaktır.",
+        "Kıyamet_Vakti": "Kıyametin kopması, dünyanın nizamının bozulması ve her şeyin yok olmasıdır. Ardından insanlar, amellerinin karşılığını görmek üzere bedenleriyle birlikte diriltileceklerdir. Diriliş sadece ruhen değil, bedenen olacaktır. Diriltilen insanların bir araya toplanması (haşir) ve bekletildikleri yer (mahşer) haktır. İnsanlar bu meydanda dünyadaki amellerine göre farklı haller içinde bulunacaklardır. Güneşin yaklaştığı ve dehşetin arttığı bu süreçte müminler ilahi gölge ve müjdelerle ferahlatılacak, inkârcılar ise büyük bir sıkıntı içinde kalacaklardır.Kirâmen Kâtibîn melekleri tarafından tutulan defterler sahiplerine uçarak gelecektir. Müminlere sağından, kâfirlere ise solundan veya arkasından verilecektir. Allah, her kulunu arada bir tercüman olmaksızın hesaba çekecektir. Ömür, gençlik, mal ve ilim gibi temel nimetlerin nerede harcandığı sorulacaktır. Amellerin tartılması için kurulacak olan Mîzan haktır. Bu terazi, mahiyeti bizce tam bilinemeyen ancak adaleti temsil eden hakiki bir terazidir. İyilikleri (hasenât) kötülüklerinden (seyyiât) ağır gelenler kurtuluşa erecek, hafif gelenler ise cezayı hak edeceklerdir. Peygamber Efendimiz’e mahsus olan, suyundan içenlerin bir daha susamayacağı Havz-ı Kevser haktır. Sırat ise cehennemin üzerine kurulan ve cennete gitmek için üzerinden geçilmesi gereken köprüdür. Müminler nurları ve amelleri miktarınca (şimşek gibi, rüzgâr gibi veya yürüyerek) oradan geçerler; kâfirler ise ayakları kayarak cehenneme düşerler. Kıyametin ne zaman kopacağını Allah'tan başka kimse bilemez ancak kıyametin yaklaştığını gösteren alametler haktır. Bu alametlerin büyükleri; Hz. İsa'nın nüzulü, Deccal'in çıkışı, Ye'cüc ve Me'cüc ve güneşin batıdan doğmasıdır."
+      }
+    }
+  ]
+}
